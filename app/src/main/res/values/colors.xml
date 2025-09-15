@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_grey">#2B2B2E</color>
+    <color name="light_grey">#9A9AA1</color>
+    <color name="appPrimary">#123262</color>"
+    <color name="profile_bg">#A1A1C7</color>
+    <color name="loss_indicator">#FF0000</color>
+    <color name="profit_indicator">#2e7d32</color>
+</resources>
