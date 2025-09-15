@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mahesh_Ambekar_Demo</string>
+    <string name="positions_title">POSITIONS</string>
+    <string name="holdings_title">HOLDINGS</string>
+    <string name="retry_desc">Retry</string>
+    <string name="sort_desc">Sort</string>
+    <string name="search_desc">Search</string>
+    <string name="portfolio_title">Portfolio</string>
+    <string name="profile_desc">profile</string>
+    <string name="current_value">Current value*</string>
+    <string name="total_investment">Total investment*</string>
+    <string name="todays_profit_loss"><![CDATA[Today\'s Profit & Loss*]]></string>
+    <string name="collapse_desc">Collapse</string>
+    <string name="expand_desc">Expand</string>
+    <string name="search_holdings_hint">Search holdings…</string>
+    <string name="sort_by_title">Sort by</string>
+    <string name="name_asc">Name ↓</string>
+    <string name="name_desc">Name ↑</string>
+    <string name="ltp_asc">LTP ↓</string>
+    <string name="ltp_desc">LTP ↑</string>
+    <string name="total_pl_asc">TOTAL PL ↓</string>
+    <string name="total_pl_desc">TOTAL PL ↑</string>
+    <string name="position_screen_in_development">Position Screen in development</string>
+    <string name="profit_loss"><![CDATA[Profit & Loss*]]></string>
+    <string name="please_wait_msg">Please wait while we fetch your holdings</string>
+</resources>
